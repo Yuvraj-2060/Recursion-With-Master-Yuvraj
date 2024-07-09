@@ -10,5 +10,6 @@ public class Sorted {
         if(index==arr.length-1)
                 return true;
         return arr[index]<arr[index+1] && sorted(arr, index+1);
+
     }
 }
