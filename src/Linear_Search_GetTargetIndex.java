@@ -12,6 +12,7 @@ public class Linear_Search_GetTargetIndex {
 
         ls = getTargetList(arr,i,target,ls);
         return ls;
+
     }
 
     private static ArrayList<Integer> getTargetList(int[] arr, int index, int target, ArrayList<Integer> ls) {
