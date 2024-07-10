@@ -12,3 +12,7 @@ Recursion is a programming technique where a function calls itself in order to s
 # Disadvantages of Recursion
 ## 1). Performance: Recursive functions can be less efficient and may lead to stack overflow if the recursion is too deep.
 ## 2). Memory Consumption: Each recursive call uses stack space, which can lead to increased memory usage.
+
+
+
+![OIP](https://github.com/Yuvraj-2060/Recursion-With-Master-Yuvraj/assets/103349788/87ffb43e-2a91-4539-b336-eae980020978)
